@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1383592754 source:c:\users\godbeyk\google drive\college\csc340\code\ga\individual.cc
+	"individual.h"
+	<cstdlib>
+	<cmath>
+
+1383588429 c:\users\godbeyk\google drive\college\csc340\code\ga\individual.h
+
+1383588429 source:c:\users\godbeyk\google drive\college\csc340\code\ga\picturega.cc
+	"pictureGA.h"
+	<fstream>
+	<string>
+	<iostream>
+	<cstdlib>
+
+1383592439 c:\users\godbeyk\google drive\college\csc340\code\ga\picturega.h
+	"individual.h"
+
+1383588429 source:c:\users\godbeyk\google drive\college\csc340\code\ga\picturega_dr.cc
+	"pictureGA.h"
+
